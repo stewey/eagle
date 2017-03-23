@@ -147,52 +147,52 @@ and
 ADC
 interfaces for connecting 
 peripherals and sensors.&lt;/p&gt;</description>
-<wire x1="17.78" y1="-30.48" x2="17.78" y2="22.86" width="0.254" layer="94"/>
-<wire x1="-17.78" y1="22.86" x2="17.78" y2="22.86" width="0.254" layer="94"/>
-<wire x1="-17.78" y1="22.86" x2="-17.78" y2="-30.48" width="0.254" layer="94"/>
-<wire x1="-17.78" y1="-30.48" x2="17.78" y2="-30.48" width="0.254" layer="94"/>
-<pin name="P0.23" x="22.86" y="20.32" length="middle" rot="R180"/>
-<pin name="P0.24" x="22.86" y="17.78" length="middle" rot="R180"/>
-<pin name="GND@39" x="22.86" y="15.24" length="middle" direction="pwr" rot="R180"/>
-<pin name="P0.22" x="22.86" y="12.7" length="middle" rot="R180"/>
-<pin name="SWDIO" x="22.86" y="10.16" length="middle" rot="R180"/>
-<pin name="SWDCLK" x="22.86" y="7.62" length="middle" rot="R180"/>
-<pin name="P0..21/RESET" x="22.86" y="5.08" length="middle" rot="R180"/>
-<pin name="P0.20" x="22.86" y="2.54" length="middle" rot="R180"/>
-<pin name="P0.19" x="22.86" y="0" length="middle" rot="R180"/>
-<pin name="P0.18" x="22.86" y="-2.54" length="middle" rot="R180"/>
-<pin name="P0.17" x="22.86" y="-5.08" length="middle" rot="R180"/>
-<pin name="P0.16" x="22.86" y="-7.62" length="middle" rot="R180"/>
-<pin name="P0.15" x="22.86" y="-10.16" length="middle" rot="R180"/>
-<pin name="P0.14" x="22.86" y="-12.7" length="middle" rot="R180"/>
-<pin name="P0.13" x="22.86" y="-15.24" length="middle" rot="R180"/>
-<pin name="P0.12" x="22.86" y="-17.78" length="middle" rot="R180"/>
-<pin name="P0.11" x="22.86" y="-20.32" length="middle" rot="R180"/>
-<pin name="GND@12" x="-15.24" y="-35.56" length="middle" direction="pwr" rot="R90"/>
-<pin name="P0.00/XL1" x="-12.7" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.01/XL2" x="-10.16" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.02" x="-7.62" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.03" x="-5.08" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.04" x="-2.54" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.05" x="0" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.06" x="2.54" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.07" x="5.08" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.08" x="7.62" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.09" x="10.16" y="-35.56" length="middle" rot="R90"/>
-<pin name="P0.10" x="12.7" y="-35.56" length="middle" rot="R90"/>
-<pin name="GND" x="15.24" y="-35.56" length="middle" direction="pwr" rot="R90"/>
-<pin name="VDD" x="-22.86" y="-15.24" length="middle" direction="pwr"/>
-<pin name="DCC" x="-22.86" y="-12.7" length="middle" direction="pwr"/>
-<pin name="DEC4" x="-22.86" y="-10.16" length="middle" direction="pwr"/>
-<pin name="P0.31" x="-22.86" y="-7.62" length="middle"/>
-<pin name="P0.30" x="-22.86" y="-5.08" length="middle"/>
-<pin name="P0.29" x="-22.86" y="-2.54" length="middle"/>
-<pin name="P0.28" x="-22.86" y="0" length="middle"/>
-<pin name="P0.27" x="-22.86" y="2.54" length="middle"/>
-<pin name="P0.26" x="-22.86" y="5.08" length="middle"/>
-<pin name="P0.25" x="-22.86" y="7.62" length="middle"/>
-<pin name="GND@1" x="-22.86" y="10.16" length="middle" direction="pwr"/>
-<text x="-15.24" y="18.542" size="1.778" layer="94">MDBT42Q</text>
+<wire x1="17.78" y1="-27.94" x2="17.78" y2="27.94" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="27.94" x2="17.78" y2="27.94" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="27.94" x2="-17.78" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="-27.94" x2="17.78" y2="-27.94" width="0.254" layer="94"/>
+<pin name="P0.23" x="22.86" y="25.4" length="middle" rot="R180"/>
+<pin name="P0.24" x="22.86" y="22.86" length="middle" rot="R180"/>
+<pin name="GND@39" x="22.86" y="20.32" length="middle" direction="pwr" rot="R180"/>
+<pin name="P0.22" x="22.86" y="17.78" length="middle" rot="R180"/>
+<pin name="SWDIO" x="22.86" y="15.24" length="middle" rot="R180"/>
+<pin name="SWDCLK" x="22.86" y="12.7" length="middle" rot="R180"/>
+<pin name="P0..21/RESET" x="22.86" y="10.16" length="middle" rot="R180"/>
+<pin name="P0.20" x="22.86" y="7.62" length="middle" rot="R180"/>
+<pin name="P0.19" x="22.86" y="5.08" length="middle" rot="R180"/>
+<pin name="P0.18" x="22.86" y="2.54" length="middle" rot="R180"/>
+<pin name="P0.17" x="22.86" y="0" length="middle" rot="R180"/>
+<pin name="P0.16" x="22.86" y="-2.54" length="middle" rot="R180"/>
+<pin name="P0.15" x="22.86" y="-5.08" length="middle" rot="R180"/>
+<pin name="P0.14" x="22.86" y="-7.62" length="middle" rot="R180"/>
+<pin name="P0.13" x="22.86" y="-10.16" length="middle" rot="R180"/>
+<pin name="P0.12" x="22.86" y="-12.7" length="middle" rot="R180"/>
+<pin name="P0.11" x="22.86" y="-15.24" length="middle" rot="R180"/>
+<pin name="GND@12" x="-15.24" y="-33.02" length="middle" direction="pwr" rot="R90"/>
+<pin name="P0.00/XL1" x="-12.7" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.01/XL2" x="-10.16" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.02" x="-7.62" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.03" x="-5.08" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.04" x="-2.54" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.05" x="0" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.06" x="2.54" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.07" x="5.08" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.08" x="7.62" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.09" x="10.16" y="-33.02" length="middle" rot="R90"/>
+<pin name="P0.10" x="12.7" y="-33.02" length="middle" rot="R90"/>
+<pin name="GND" x="15.24" y="-33.02" length="middle" direction="pwr" rot="R90"/>
+<pin name="VDD" x="-22.86" y="-10.16" length="middle" direction="pwr"/>
+<pin name="DCC" x="-22.86" y="-7.62" length="middle" direction="pwr"/>
+<pin name="DEC4" x="-22.86" y="-5.08" length="middle" direction="pwr"/>
+<pin name="P0.31" x="-22.86" y="-2.54" length="middle"/>
+<pin name="P0.30" x="-22.86" y="0" length="middle"/>
+<pin name="P0.29" x="-22.86" y="2.54" length="middle"/>
+<pin name="P0.28" x="-22.86" y="5.08" length="middle"/>
+<pin name="P0.27" x="-22.86" y="7.62" length="middle"/>
+<pin name="P0.26" x="-22.86" y="10.16" length="middle"/>
+<pin name="P0.25" x="-22.86" y="12.7" length="middle"/>
+<pin name="GND@1" x="-22.86" y="15.24" length="middle" direction="pwr"/>
+<text x="-15.24" y="23.622" size="1.778" layer="94">MDBT42Q</text>
 </symbol>
 </symbols>
 <devicesets>
